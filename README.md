@@ -1,7 +1,2 @@
 # myrepo
-Hi there
-edited now 
-
-test job2
-
-ff
+hi test1 for today
